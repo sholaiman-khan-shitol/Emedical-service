@@ -1,0 +1,15 @@
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\bin\Debug\Emedical service.exe.config
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\bin\Debug\Emedical service.exe
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\bin\Debug\Emedical service.pdb
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical service.csprojAssemblyReference.cache
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Form1.resources
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Properties.Resources.resources
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical service.csproj.GenerateResource.cache
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical service.csproj.CoreCompileInputs.cache
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical service.exe
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical service.pdb
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Form2.resources
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Form3.resources
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Form4.resources
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Form5.resources
+C:\Users\SPORSHO\source\repos\Emedical service\Emedical service\obj\Debug\Emedical_service.Form6.resources
